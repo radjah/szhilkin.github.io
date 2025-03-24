@@ -1,13 +1,13 @@
 ![photo](30d4538.jpg)
 
 
-Freelance DevOps (docker, packer, terraform, rancher,kubernates, CI/CD, nexus) and software enthusiast.
+Freelance DevOps (docker, packer, terraform, rancher, kubernates, CI/CD, nexus) and software enthusiast.
 
 [Syzran](https://yandex.ru/maps/-/CBFu6IGLGD), Russian Federation.
 
 Installing and solving issues with [BSD](http://www.bsd.org) since 1995
 
-Fighting  with different Linux distributions since 1997 (after OS/2 was dropped by IBM)
+Fighting with different Linux distributions since 1997 (after OS/2 was dropped by IBM)
 
 Ported some software to QNX 6.3.2, NC Developer since 2008
 
